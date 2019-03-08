@@ -1,3 +1,3 @@
 # CS_reconstruction
 
-Compressed sensing and its reconstuction algorythms
+Compressed sensing and its reconstuction algorithms
